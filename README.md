@@ -52,7 +52,7 @@ If you are deploying to vercel. Make sure to set ENVIRONMENT VARIABLE `TMDB_ACCE
 
 #### Docker
 
-You can use docker to build and deploy kitsune. Check this repo [KitsuneDocker](https://github.com/Ve-Ka/KitsuneDocker)
+You can use docker to build and deploy kitsune. Check this repo [KitsuneDocker](https://github.com/kap320/depojudi)
 
 ## Credits
 
